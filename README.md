@@ -1,3 +1,3 @@
 # hi_adam
 
-Hello Eli, what a pleasant suprise!
+Hello Eli, what a pleasant surprise!
