@@ -6,4 +6,10 @@ Hello Eli, what a pleasant surprise!
 
 Thanks, Adam! I'm still figuring this out :)
 
-Hi Adam, it occurs to me that since this file is in a public repo, this is not a great channel for secret communication. Nonetheless, we can communicate publicly here!
+09.08.2024
+I'm on the same end of figuring this out. Currently in Olin Library working on Assignment 2 for the class.  
+Seems like a really useful one for organizing my pre-existing projects!
+Happy Sunday!
+
+Happy Sunday, Adam! I'm glad you are still active in our super-secret communication channel here!
+Will you still be in Olin at noon? I plan to get there around then. Hope to see you!
