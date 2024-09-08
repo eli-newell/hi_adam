@@ -13,3 +13,5 @@ Happy Sunday!
 
 Happy Sunday, Adam! I'm glad you are still active in our super-secret communication channel here!
 Will you still be in Olin at noon? I plan to get there around then. Hope to see you!
+
+Yes I will be! I packed my lunch so I will be around :)
