@@ -17,3 +17,6 @@ Will you still be in Olin at noon? I plan to get there around then. Hope to see 
 Yes I will be! I packed my lunch so I will be around :)
 
 Great! See you in a bit :)
+
+09.10.2024
+Hi, Adam! So nice to see you this weekend in Olin, and nice to be in class with you now!
