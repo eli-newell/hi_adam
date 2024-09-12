@@ -23,3 +23,7 @@ Hi, Adam! So nice to see you this weekend in Olin, and nice to be in class with 
 
 09.12.2024
 Hi, Adam - when does the agroecology working group meet?
+
+Hi Eli, sorry for the late response.
+They are still trying to pin point a time to meet.
+I don't believe it has been decided yet!
