@@ -20,3 +20,6 @@ Great! See you in a bit :)
 
 09.10.2024
 Hi, Adam! So nice to see you this weekend in Olin, and nice to be in class with you now!
+
+09.12.2024
+Hi, Adam - when does the agroecology working group meet?
