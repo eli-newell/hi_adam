@@ -27,3 +27,6 @@ Hi, Adam - when does the agroecology working group meet?
 Hi Eli, sorry for the late response.
 They are still trying to pin point a time to meet.
 I don't believe it has been decided yet!
+
+09.17.2024
+Okay, well let me know when you know!
