@@ -30,3 +30,6 @@ I don't believe it has been decided yet!
 
 09.17.2024
 Okay, well let me know when you know!
+
+09.19.2024
+Hi Adam, nice to see you here in class; I look forward to seeing you again in lab section.
