@@ -40,3 +40,5 @@ Eli! We are currently in lab section and I am already looking foward to seeing y
 Adam, these examples of collaborative R are pretty cool!
 
 I agree, I am throughly enjoying these illustrations in the poweropint!
+
+Is there a way to use emojis in R?
