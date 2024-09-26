@@ -35,3 +35,6 @@ Okay, well let me know when you know!
 Hi Adam, nice to see you here in class; I look forward to seeing you again in lab section.
 
 Eli! We are currently in lab section and I am alreadying looking foward to seeing you in lecture on Tuesday.
+
+09.26.2024
+Adam, these examples of collaborative R are pretty cool!
