@@ -42,3 +42,6 @@ Adam, these examples of collaborative R are pretty cool!
 I agree, I am throughly enjoying these illustrations in the poweropint!
 
 Is there a way to use emojis in R?
+
+10.03.2024
+Hi Adam, this is Eli. We are currently in lab section and I am looking forward to seeing you again in lecture on Tuesday! Isn't this class so cool??
