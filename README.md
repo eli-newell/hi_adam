@@ -45,3 +45,9 @@ Is there a way to use emojis in R?
 
 10.03.2024
 Hi Adam, this is Eli. We are currently in lab section and I am looking forward to seeing you again in lecture on Tuesday! Isn't this class so cool??
+
+Hey Eli! Sorry for missing your pushes! I'm not sure if there are ways to use
+emojis in R but I'm sure there is some package out there that can help insert them!
+Btw, this class is amazing! I enjoyed reading your flying dreams during lecture today as well :)
+See you on Tuesday!
+
