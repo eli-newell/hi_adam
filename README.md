@@ -51,3 +51,5 @@ emojis in R but I'm sure there is some package out there that can help insert th
 Btw, this class is amazing! I enjoyed reading your flying dreams during lecture today as well :)
 See you on Tuesday!
 
+10.10.2024
+Hi Adam. Are you coming to Soil Factory event tonight?
